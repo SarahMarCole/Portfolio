@@ -1,2 +1,3 @@
-# Portfolio
-This is my Github data analysis portfolio. It demonstrates my abilities in data cleaning, exploration, visualization, and modeling with R and Excel. Each project incorporates my approach as well as key findings and insights. It also contains the code. This portfolio is intended to show potential employers and clients my skills and experience.
+#USGS Stream Gauge Data
+
+This function organizes USGS stream gauge data by selecting specific columns, filtering for certain water quality parameters, and grouping by month, season, and site. It then writes the results to CSV files.
